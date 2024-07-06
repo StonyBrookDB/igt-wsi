@@ -1,2 +1,2 @@
 
-##Integrative Graph-Transformer Framework for Histopathology Whole Slide Image Representation and Classification
+## Integrative Graph-Transformer Framework for Histopathology Whole Slide Image Representation and Classification
